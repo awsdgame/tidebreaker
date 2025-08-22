@@ -1,5 +1,4 @@
-// Tidebreaker - a simple boat racing game
-
+// Tidebreaker - a simple boat game
     const cvs = document.getElementById('game');
     const ctx = cvs.getContext('2d');
     const W = cvs.width, H = cvs.height;
